@@ -1,0 +1,173 @@
+[
+	{
+		"custId": "23262",
+		"custName": "Candice Levy",
+		"custCountry": "Congo",
+		"productSold": "Supreme",
+		"salesChannel": "Distributor",
+		"unitSold": "117",
+		"dateSold": "2021-08-09"
+	},
+	{
+		"custId": "2363",
+		"custName": "Xerxes Simth",
+		"custCountry": "Panama",
+		"productSold": "Puma",
+		"salesChannel": "Retail",
+		"unitSold": "73",
+		"dateSold": "2021-01-06"
+	},
+	{
+		"custId": "1000",
+		"custName": "Al",
+		"custCountry": "indonesia",
+		"productSold": "Addidas",
+		"salesChannel": "Distributor",
+		"unitSold": "13",
+		"dateSold": "2021-09-09"
+	},
+	{
+		"custId": "2000",
+		"custName": "Budi",
+		"custCountry": "Indonesia",
+		"productSold": "RipCurl",
+		"salesChannel": "Distributor",
+		"unitSold": "43",
+		"dateSold": "2021-07-06"
+	},
+	{
+		"custId": "23262",
+		"custName": "Candice Levy",
+		"custCountry": "Congo",
+		"productSold": "Nike",
+		"salesChannel": "Retail",
+		"unitSold": "117",
+		"dateSold": "2021-02-09"
+	},
+	{
+		"custId": "2363",
+		"custName": "Xerxes Simth",
+		"custCountry": "Panama",
+		"productSold": "3Second",
+		"salesChannel": "Retail",
+		"unitSold": "73",
+		"dateSold": "2022-09-06"
+	},
+	{
+		"custId": "1000",
+		"custName": "habib",
+		"custCountry": "indonesia",
+		"productSold": "Gucci",
+		"salesChannel": "Distributor",
+		"unitSold": "13",
+		"dateSold": "2022-09-09"
+	},
+	{
+		"custId": "2000",
+		"custName": "Dodi",
+		"custCountry": "Indonesia",
+		"productSold": "RipCurl",
+		"salesChannel": "Distributor",
+		"unitSold": "43",
+		"dateSold": "2022-07-06"
+	},
+	{
+		"custId": "23262",
+		"custName": "Candice Levy",
+		"custCountry": "Congo",
+		"productSold": "Nike",
+		"salesChannel": "Retail",
+		"unitSold": "117",
+		"dateSold": "2022-06-05"
+	},
+	{
+		"custId": "2363",
+		"custName": "Xerxes Simth",
+		"custCountry": "Panama",
+		"productSold": "RipCurl",
+		"salesChannel": "Retail",
+		"unitSold": "73",
+		"dateSold": "2022-05-08"
+	},
+	{
+		"custId": "1000",
+		"custName": "samsul",
+		"custCountry": "indonesia",
+		"productSold": "RipCurl",
+		"salesChannel": "Distributor",
+		"unitSold": "13",
+		"dateSold": "2022-03-05"
+	},
+	{
+		"custId": "2000",
+		"custName": "Andi",
+		"custCountry": "Indonesia",
+		"productSold": "Uniqlo",
+		"salesChannel": "Distributor",
+		"unitSold": "43",
+		"dateSold": "2021-05-08"
+	},
+	{
+		"custId": "23262",
+		"custName": "Candice Levy",
+		"custCountry": "Congo",
+		"productSold": "RipCurl",
+		"salesChannel": "Reseller",
+		"unitSold": "117",
+		"dateSold": "2022-03-04"
+	},
+	{
+		"custId": "2363",
+		"custName": "Xerxes Simth",
+		"custCountry": "Panama",
+		"productSold": "Ellese",
+		"salesChannel": "Reseller",
+		"unitSold": "73",
+		"dateSold": "2021-03-05"
+	},
+	{
+		"custId": "1000",
+		"custName": "ian",
+		"custCountry": "indonesia",
+		"productSold": "Bape",
+		"salesChannel": "Distributor",
+		"unitSold": "13",
+		"dateSold": "2021-04-08"
+	},
+	{
+		"custId": "2000",
+		"custName": "Dodi",
+		"custCountry": "Indonesia",
+		"productSold": "H&M",
+		"salesChannel": "Distributor",
+		"unitSold": "43",
+		"dateSold": "2022-05-07"
+	},
+	{
+		"custId": "2000",
+		"custName": "Andi",
+		"custCountry": "Indonesia",
+		"productSold": "Uniqlo",
+		"salesChannel": "Distributor",
+		"unitSold": "43",
+		"dateSold": "2021-05-08"
+	},
+	{
+		"custId": "23262",
+		"custName": "Candice Levy",
+		"custCountry": "Congo",
+		"productSold": "RipCurl",
+		"salesChannel": "Reseller",
+		"unitSold": "117",
+		"dateSold": "2022-03-04"
+	},
+	{
+		"custId": "2363",
+		"custName": "Xerxes Simth",
+		"custCountry": "Panama",
+		"productSold": "3Second",
+		"salesChannel": "Reseller",
+		"unitSold": "73",
+		"dateSold": "2022-09-06"
+	}
+]
